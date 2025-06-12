@@ -28,7 +28,7 @@ This is a powerful Filter designed for [Open WebUI](https://github.com/open-webu
 
 ## ⚙️ Configuration
 
-After [importing](https://openwebui.com/f/cooksleep/time_awareness) and enabling the Filter, click the gear icon to the right of "Time Awareness" under **Admin Panel > Functions** to find the following options:
+After [importing](https://openwebui.com/f/cooksleep/time_awareness) and enabling the Filter (You also need to click "More" and enable "Global" so that it appears in all conversations.), click the gear icon to the right of "Time Awareness" under **Admin Panel > Functions** to find the following options:
 
 -   **`api_base_url` (Required)**:
     -   **Description**: The base URL of your Open WebUI backend.
