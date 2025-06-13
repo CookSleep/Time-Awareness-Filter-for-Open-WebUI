@@ -1,6 +1,7 @@
 """
 title: 时间感知
-author: https://github.com/CookSleep
+authors: CookSleep
+author_url: https://github.com/CookSleep
 description: 为对话中的所有用户消息（包括历史消息）注入准确的时间上下文。它能智能处理各种消息类型并优化可读性。支持多用户，并自动获取认证信息和用户时区，无需手动配置。
 version: 1.1
 """
