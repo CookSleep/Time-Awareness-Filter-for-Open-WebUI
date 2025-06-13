@@ -1,6 +1,7 @@
 """
 title: Time Awareness
-author: https://github.com/CookSleep
+authors: CookSleep
+author_url: https://github.com/CookSleep
 description: Injects accurate time context into all user messages, including historical ones. It handles various message types and optimizes readability. Supports multiple users and automatically detects user timezone and auth info without manual configuration.
 version: 1.1
 """
